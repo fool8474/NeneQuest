@@ -547,7 +547,7 @@ class mainFrame extends JFrame implements Runnable, KeyListener
 				}
 			}
 
-			else{s
+			else{
 
 				if(cntBossBx >= -1200)
 				{
